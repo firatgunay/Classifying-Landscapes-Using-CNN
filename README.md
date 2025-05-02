@@ -1,10 +1,10 @@
-# Intel Image Classification Projesi
+# Intel Image Classification Dataseti ile Landscape tahmini
 
 Bu proje, Intel Image Classification veri setini kullanarak görüntü sınıflandırma yapan bir derin öğrenme modeli ve kullanıcı dostu bir web arayüzü içerir.
 
 ## Proje Hakkında
 
-Proje, 6 farklı doğal manzara kategorisini (buildings, forest, glacier, mountain, sea, street) sınıflandıran bir Convolutional Neural Network (CNN) modeli içerir. Model, veri artırma teknikleri kullanılarak eğitilmiş ve yüksek doğruluk oranına sahiptir. Eğitilen model, kullanıcıların kendi görüntülerini yükleyip sınıflandırma yapabilecekleri bir web arayüzü ile sunulmaktadır.
+Proje, 6 farklı doğal manzara kategorisini (buildings, forest, glacier, mountain, sea, street) sınıflandıran bir Convolutional Neural Network (CNN) modeli içerir. Model, veri artırma teknikleri kullanılarak eğitilmiş ve yüksek doğruluk oranına sahiptir (%90). Eğitilen model, kullanıcıların kendi görüntülerini yükleyip sınıflandırma yapabilecekleri bir web arayüzü ile sunulmaktadır.
 
 ## Veri Seti
 

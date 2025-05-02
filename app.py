@@ -8,13 +8,13 @@ import os
 
 # Sayfa yapılandırması
 st.set_page_config(
-    page_title="Intel Image Classification",
+    page_title="Classifying Landscapes",
     page_icon="📷",
     layout="centered"
 )
 
 # Başlık ve açıklama
-st.title("Intel Image Classification")
+st.title("Classifying Landscapes")
 st.write("Bu uygulama, yüklediğiniz görüntüleri 6 farklı kategoride sınıflandırır: buildings, forest, glacier, mountain, sea ve street.")
 
 # Sınıf isimleri
