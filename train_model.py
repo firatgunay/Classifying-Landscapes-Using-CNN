@@ -77,9 +77,9 @@ try:
     
     print("Sınıf isimleri:", class_names)
     print(f"Toplam sınıf sayısı: {num_classes}")
-    print(f"Eğitim seti boyutu: {train_generator.samples} örnek")
-    print(f"Doğrulama seti boyutu: {validation_generator.samples} örnek")
-    print(f"Test seti boyutu: {test_generator.samples} örnek")
+    print(f"Eğitim seti boyutu: {train_generator.samples} görüntü")
+    print(f"Doğrulama seti boyutu: {validation_generator.samples} görüntü")
+    print(f"Test seti boyutu: {test_generator.samples} görüntü")
 
 except Exception as e:
     print(f"Veri yükleme sırasında hata oluştu: {str(e)}")
